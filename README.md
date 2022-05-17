@@ -28,4 +28,22 @@ Developed, launched and customized highly responsive, easy to use, user-friendly
   </tr>
 </table>
 
+- I have various knowledge and experience in the field of blockchain.
+From initial coin offering to building a coin ecosystem, we can support all side for your business and can support your project with MVP products.
+Following the trend, we are currently focusing on blockchain games and ready to make your ideas a reality.
+
+<table>
+  <tr>
+    <td><img src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/ethereum.png" width="200"></td>
+    <td><img src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/bsc.png" width="200"></td>
+    <td><img src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/matic.png" width="200"></td>
+    <td><img src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/fantom.png" width="200"></td>
+    <td><img src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/solidity.png" width="200"></td>
+    <td><img src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/solana.png" width="200"></td>
+    <td><img src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/nft.jpg" width="200"></td>
+    +<td><img src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/P2E.jpg" width="200"></td>
+    <td><img src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/cardano.png" width="200"></td>
+  </tr>
+</table>
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thomas-anderson-0313&theme=highcontrast&show_icons=true&count_private=true)
