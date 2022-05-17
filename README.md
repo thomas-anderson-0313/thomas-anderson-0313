@@ -41,9 +41,30 @@ Following the trend, we are currently focusing on blockchain games and ready to 
     <td><img src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/solidity.png" width="200"></td>
     <td><img src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/solana.png" width="200"></td>
     <td><img src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/nft.jpg" width="200"></td>
-    +<td><img src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/P2E.jpg" width="200"></td>
+    +<td><img src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/p2e.jpg" width="200"></td>
     <td><img src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/cardano.png" width="200"></td>
   </tr>
 </table>
 
+-  I am familiar with mobile app development too.
+
+## Contact me
+
+<div>
+	<h5>
+		<img align="center" alt="Silence | Gmail" width="26px" src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/Gmail.svg" />
+	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;thomasanderson19960313@gmail.com
+	  		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img align="center" alt="Silence | Telegram" width="26px" src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/Telegram.png" />
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/thomas19960313
+	</h5>
+	<h5>
+		<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/Skype.png" />
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://join.skype.com/invite/xdqwkaF98NWb
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<img align="center" alt="Silence | Discord" width="28px" src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/discord.png" />
+			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://discord.com/invite/G6f5wHb6
+	</h5>
+<div>
+	
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thomas-anderson-0313&theme=highcontrast&show_icons=true&count_private=true)
