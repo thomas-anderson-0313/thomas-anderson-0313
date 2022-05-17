@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-	<img align="center" src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/header2.jpg?raw=true" style="width: 100%" />
+	<img align="center" src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/header3.jpg?raw=true" style="width: 50%" />
 </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=thomas-anderson-0313&theme=highcontrast&show_icons=true&count_private=true)
