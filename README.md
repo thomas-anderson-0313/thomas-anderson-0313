@@ -59,7 +59,7 @@ Following the trend, we are currently focusing on blockchain games and ready to 
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/thomas19960313
 	</h5>
 	<h5>
-		<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/Skype.jpg" />
+		<img align="center" alt="Silence | Skype" width="26px" src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/Skype.png" />
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://join.skype.com/invite/xdqwkaF98NWb
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 		<img align="center" alt="Silence | Discord" width="28px" src="https://github.com/thomas-anderson-0313/thomas-anderson-0313/blob/main/discord.png" />
